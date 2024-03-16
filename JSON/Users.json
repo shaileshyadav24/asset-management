@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "Shailesh Yadav",
+        "userId": "SHAILESHKYADAV",
+        "email": "shaileshkyadav@gmail.com",
+        "status": true,
+        "assignedAssets": [],
+        "department": "3"
+    }
+]

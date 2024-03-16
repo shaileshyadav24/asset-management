@@ -1,0 +1,34 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "label": "Front End Staff"
+        },
+        {
+            "id": 2,
+            "label": "Backend Staff"
+        },
+        {
+            "id": 3,
+            "label": "QA staff"
+        }
+    ],
+    "deviceType": [
+        {
+            "id": 1,
+            "label": "Windows Laptop"
+        },
+        {
+            "id": 2,
+            "label": "Apple Macbook (Intel)"
+        },
+        {
+            "id": 3,
+            "label": "Apple Macbook (Silicon)"
+        },
+        {
+            "id": 4,
+            "label": "Linux Laptop"
+        }
+    ]
+}

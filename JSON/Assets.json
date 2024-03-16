@@ -1,0 +1,30 @@
+{
+    "assets": [
+        {
+            "assetId": "windowsAlpha",
+            "serialNo": "x341231",
+            "hostname": "Windows",
+            "deviceType": "1",
+            "model": "Lenovo Yoga",
+            "note": "",
+            "expiry": "",
+            "status": 1,
+            "createdOn": "2023-05-05 9:20",
+            "logs": [],
+            "id": 1
+        },
+        {
+            "assetId": "windowsOptimus",
+            "serialNo": "846454213",
+            "hostname": "Windows",
+            "deviceType": "1",
+            "model": "Lenovo x360",
+            "note": "",
+            "expiry": "",
+            "status": 1,
+            "createdOn": "2024-01-05 1:20",
+            "logs": [],
+            "id": 2
+        }
+    ]
+}

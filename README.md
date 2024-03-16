@@ -1,5 +1,5 @@
 # asset-management
-This branch is for developed using NodeJS + Express.
+Backend code is developed using NodeJS + Express. It is running on PORT: 5555
 
 Features:
 1. Login
